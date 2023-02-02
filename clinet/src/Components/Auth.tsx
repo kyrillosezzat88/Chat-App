@@ -32,7 +32,7 @@ const Auth = () => {
         e.preventDefault();
         const { fullName, username, phoneNumber, avatarURL, password } = form;
         console.log({ fullName, username, phoneNumber, avatarURL, password })
-        const URL = 'http://localhost:5000/auth'
+        const URL = 'https://chat-app-back-1xs2s7h4r-kyrillosezzat88.vercel.app/auth'
         const { data: { token, userID, hashedPassword } }: any = await axios.post(`${URL}/${isSignup ? "signup" : "login"}`, {
             username,
             password,
