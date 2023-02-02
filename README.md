@@ -2,7 +2,7 @@
 
 ##### Chat App is a Full Featured Chat application it`s built in React, StreamChat and Node js
 
-[![Build Status](https://i.postimg.cc/7Yb8ZP9b/logo-color.png)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://i.postimg.cc/CKsKYLMd/Logo.png)](https://travis-ci.org/joemccann/dillinger)
 
 ## Screenshots
 
